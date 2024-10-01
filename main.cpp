@@ -9,4 +9,6 @@ int main(){
     FileManager::ReadFrom("ola","");
 
 
+    FileManager::Create("ola");
+
 }
